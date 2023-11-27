@@ -1,0 +1,28 @@
+/* Info Practice Questions
+
+1. What are the different states of a link element?
+    Link, Visited, Hover, Active, Focus
+
+2. Explain the concept of CSS inheritance
+    The child gains the properties of the parent by default unless declared otherwise
+    For example: the color of text for a div will be passed to the specific texts in that div. 
+
+3. Are all properties inherited by default? 
+    No. Some properties such as border are not passed down by default. 
+    But this can be overrode with the value "inherit".
+
+4. Write some shorthand properties you can think of
+    Shorthand properties are properties that allow for multiple properties in one line
+        Background, Font, Border, Outline, Margin, Padding, List
+    Order goes : 4 = top, right, bottom, left. 3 = top, right/left, bottom 2 = top/bottom, right/left
+
+5. Inherit vs Initial
+    Inherit is the value that was redefined for the parent element
+    Initial is the value that is the CSS default 
+
+6. Whenever the specificity level of 2 selectors are the same, what are the most common implications of that? Example?
+    Specificity Hierarchy : 1. Inline Styling 2.ID 3.Classes, pseudo-classes, attribute selectors 4.Elements and pseudo-elements
+
+7. Rem unit and how it works
+    "Root em" - Represents the font size of the root element. 1 rem = font size of html element. Helps consistency
+ */
