@@ -1,0 +1,1 @@
+This repository is for me to log and practice the information I learn throughout my coding journey!
